@@ -1,0 +1,38 @@
+RONAN LICENSE
+Version 1, Jan 2010
+
+ Copyright (C) 2010, Ronan Paixão
+ also available at: http://ronan.dapaixao.com.br/en/Ronan%20License
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+This license follows the terms of the GNU General Public License (GPL)
+version 2, with the following differences:
+
+ * The author reserves the right to redistribute this program under
+   any other license as he chooses (including proprietary ones).
+
+ * Any derived program must also be released by the terms of this
+   license.
+
+ * Future versions of the program may be rereleased in a future version
+   of this license.
+
+ * Third parties which make modifications to a program under this
+   license must allow those modifications to be redistributed by
+   the original author under any other licenses as he chooses
+   (including proprietary ones).
+
+ * In case the original author of a program under this license
+   decides to release said program under a closed proprietary
+   license, he agrees to release the last version of said
+   program under the GPL version 2.
+   
+ * Other disputes shall be solved by the terms of the GPL version
+   2. If that's not enough, the original author shall arbitrate
+   in the matter.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.

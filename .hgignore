@@ -1,0 +1,13 @@
+syntax: glob
+debug/
+release/
+QExtSerialPort/
+plugins/build/
+Makefile*
+*.o
+*~
+*.pro.user.*
+*.zip
+*.gz
+*.dll
+*.a

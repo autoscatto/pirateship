@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/media">
+        <file>PirateShip.png</file>
+    </qresource>
+    <qresource prefix="/tr">
+        <file>pirateship_pt_BR.qm</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>GPLv2.txt</file>
+        <file>Ronan License.txt</file>
+    </qresource>
+</RCC>
