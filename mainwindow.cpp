@@ -110,6 +110,8 @@ int MainWindow::Connect()
     if (retval) {
 #ifdef Q_OS_WIN
         emit Connect(conn->port(), conn->baudrate());
+#elif defined(Q_OS_MAC)
+        emit Connect(conn->port(), conn->baudrate());
 #elif defined(Q_OS_UNIX)
         emit Connect(conn->port().prepend("/dev/"), conn->baudrate());
 #endif
